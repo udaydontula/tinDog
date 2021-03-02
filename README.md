@@ -5,7 +5,6 @@ The focus of the project is to create a website were you can upload photos, vide
 - Bootstrap
 - HTML
 - CSS
-- Python
 - Javascript
 
 ## Preview
